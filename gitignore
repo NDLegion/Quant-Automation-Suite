@@ -1,0 +1,25 @@
+# PyInstaller
+build/
+dist/
+*.spec.bak
+__pycache__/
+*.pyc
+*.pyo
+
+# Extracted scripts folder (created by EXE at runtime)
+_fwmo_scripts/
+
+# Logs
+automation_logs_*.txt
+
+# VS Code
+.vscode/
+
+# Python env
+venv/
+.env/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
