@@ -11,7 +11,7 @@
 
 [🇬🇧 English](#english) • [🇺🇦 Українська](#ukrainian)
 
-![QuantAutomationSuite.exe](https://drive.google.com/file/d/1OjPxurulcFtmuPg6xYDFEU6ZaGWaqYth/view?usp=drive_link)
+![QuantAutomationSuite.exe](https://drive.google.com/file/d/1OjPxurulcFtmuPg6xYDFEU6ZaGWaqYth/view)
 
 </div>
 
