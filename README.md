@@ -17,6 +17,26 @@ QuantAutomationSuite.exe - (https://drive.google.com/file/d/1OjPxurulcFtmuPg6xYD
 
 ---
 
+---
+ 
+> [!WARNING]
+> **Disclaimer / Відмова від відповідальності**
+>
+> This software is distributed **solely for educational purposes**.
+> The author is not responsible for any bans, account restrictions, or penalties imposed by game servers or platforms.
+> Scripts are **not guaranteed** to function correctly on all systems, screen configurations, or hardware setups.
+> This product is **experimental**. Using it to gain an unfair advantage over other players may result in permanent account suspension.
+> **Use entirely at your own risk**, with full awareness of all possible consequences.
+>
+> Цей продукт розповсюджується **виключно в освітніх цілях**.
+> Автор не несе відповідальності за бани, обмеження акаунтів або санкції з боку ігрових серверів.
+> Скрипти **не гарантують** коректну роботу на всіх системах, конфігураціях екрану або апаратному забезпеченні.
+> Продукт є **експериментальним**. Використання для нечесної переваги може призвести до блокування акаунту.
+> **Використовуйте виключно на власний розсуд**, усвідомлюючи всі можливі ризики.
+
+---
+
+
 <a name="english"></a>
 # 🇬🇧 English
 
